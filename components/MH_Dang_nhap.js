@@ -12,6 +12,9 @@ export default class MH_Dang_nhap extends Component {
             
         }
     }
+    test(){
+        
+    }
 
     render() {
         return (
