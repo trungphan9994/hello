@@ -8,12 +8,17 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "expo": "^36.0.2",
+    "expo-gl": "^8.0.0",
+    "expo-graphics": "^1.1.0",
+    "expo-three": "^5.3.0",
     "react": "16.8.6",
     "react-native": "0.60.4",
     "react-native-button": "^2.4.0",
     "react-native-modalbox": "^2.0.0",
     "react-native-popup-menu": "^0.15.6",
-    "react-native-swiper": "^1.5.14"
+    "react-native-swiper": "^1.5.14",
+    "three": "^0.112.1"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
