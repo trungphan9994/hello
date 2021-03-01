@@ -18,7 +18,7 @@
     "react-native-modalbox": "^2.0.0",
     "react-native-popup-menu": "^0.15.6",
     "react-native-swiper": "^1.5.14",
-    "three": "^0.112.1"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
